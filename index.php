@@ -21,7 +21,7 @@ require_once'includes/login_view.inc.php';
   <form action="includes/login.inc.php"  methode="post">
     <input type="text" name="username" placeholder="username">
     <input type="password" name="password" placeholder="password">
-    <button> Login </button>
+    <button > Login </button>
   </form>
 
   <?php
